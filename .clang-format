@@ -1,0 +1,4 @@
+BasedOnStyle: GNU
+ForEachMacros:
+  - lsfor$
+SortIncludes: Never
