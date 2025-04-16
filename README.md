@@ -1,0 +1,3 @@
+# cmacs
+
+Clang MACroS
