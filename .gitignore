@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.gitmodules
+
+!LICENSE
+!README
+
+!.clang-format
+
+!*.h
