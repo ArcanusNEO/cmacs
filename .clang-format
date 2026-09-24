@@ -1,0 +1,5 @@
+BasedOnStyle: GNU
+ForEachMacros:
+  - with$
+  - xlsfor$
+SortIncludes: Never
