@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.gitmodules
+!LICENSE
+!*.md
+!.clang-format
+!*.h
